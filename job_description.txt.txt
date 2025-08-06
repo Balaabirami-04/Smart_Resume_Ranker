@@ -1,0 +1,3 @@
+We are looking for a Python Developer with experience in data analysis, machine learning,
+NLP, and cloud services like AWS. The ideal candidate will have strong problem-solving skills,
+knowledge of scikit-learn, pandas, and NLTK, and a solid understanding of software development practices.
